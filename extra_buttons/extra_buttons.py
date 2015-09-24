@@ -46,7 +46,7 @@ class Utility(object):
     const.YEAR_START = 2014
     const.YEAR_LAST = 2015
     const.ANKIWEB_URL = "https://ankiweb.net/shared/info/162313389"
-    const.GITHUB_URL = "https://https://github.com/Neftas/supplementary-buttons-anki"
+    const.GITHUB_URL = "https://github.com/Neftas/supplementary-buttons-anki"
     const.EMAIL = "srvandenakker.dev@gmail.com"
 
     # Linux, Mac OS, Windows, etc
